@@ -3,12 +3,12 @@
     <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="700" height="500">
 </h1>
 <div align="left">
-  <h1>Tech-Stack and Frameworks👩🏼‍💻 </h1>
+  <h1>Techstack and Frameworks👩🏼‍💻 </h1>
   <img src="https://skillicons.dev/icons?i=cpp,c,javascript,typescript,mongodb,express,react,nodejs,firebase,bootstrap,html,css,github,docker" />
 </div>
  <hr>
 <div align="left">
-  <h1>Connect with me🌐</h1>
+  <h1>Let's connect🌐</h1>
   <a href="mailto:khushisaritaagrawal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>&nbsp;  
@@ -18,9 +18,9 @@
 </div>
 <hr>  
 
-<h1 align="left"> Stats📊 </h1>
+<h1 align="left"> Git Stats📊 </h1>
 <div align="left">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=khushiiagrawal&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br>  
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=khushiiagrawal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br>
-  <img width="390" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=khushiiagrawal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="390" height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=khushiiagrawal&count_private=true&theme=react&border_radius=10" alt="streak stats"/>&nbsp;
+     <img width="390" height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=khushiiagrawal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="390" height="182"  src="https://github-readme-stats-salesp07.vercel.app/api?username=khushiiagrawal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> 
 </div>
