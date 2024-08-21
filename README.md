@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu+Mono&weight=450&duration=3000&pause=1000&vCenter=true&random=true&width=300&height=50&lines=Heya,+I'm+Khushi:);A+passionate+programmer;" /><br>
-    <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="900" height="600">
+    <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="700" height="500">
 </h1>
 <div align="left">
   <h1>Tech-Stack and Frameworks👩🏼‍💻 </h1>
