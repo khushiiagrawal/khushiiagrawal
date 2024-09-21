@@ -20,7 +20,8 @@
 
 <h1 align="left"> Git Stats📊 </h1>
 <div align="left">
-  <img width="390" height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=khushiiagrawal&count_private=true&theme=react&border_radius=10" alt="streak stats"/>&nbsp;
-     <img width="390" height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=khushiiagrawal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="390" height="182"  src="https://github-readme-stats-salesp07.vercel.app/api?username=khushiiagrawal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> 
+  <img width="390" height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=khushiiagrawal&count_private=true&theme=react&border_radius=10&cache_seconds=600"/><br>
+     <img width="390" height="182"  src="https://github-readme-stats-salesp07.vercel.app/api?username=khushiiagrawal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache_seconds=600"/> <br>
+     <img width="390" height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=khushiiagrawal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_seconds=600"/><br>
+ 
 </div>
