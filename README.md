@@ -9,7 +9,7 @@
 
 <div align="left">
   <h1>Techstack and Frameworks👩🏼‍💻 </h1>
-  <img src="https://skillicons.dev/icons?i=cpp,c,javascript,typescript,mongodb,express,react,nodejs,firebase,bootstrap,html,css,github,docker" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,javascript,mongodb,express,react,nodejs,firebase,bootstrap,html,css,github,docker" />
 </div>
  <hr>
 <div align="left">
@@ -25,8 +25,16 @@
 
 <h1 align="left"> Git Stats📊 </h1>
 <div align="left">
-  <img width="390" height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=khushiiagrawal&count_private=true&theme=react&border_radius=10&cache_seconds=600"/><br>
-     <img width="390" height="182"  src="https://github-readme-stats-salesp07.vercel.app/api?username=khushiiagrawal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache_seconds=600"/> <br>
-     <img width="390" height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=khushiiagrawal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_seconds=600"/><br>
- 
+  <img width="390" height="160" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=khushiiagrawal&count_private=true&theme=react&border_radius=10&cache_seconds=600"/><br>
+     <img width="390" height="192"  src="https://github-readme-stats-salesp07.vercel.app/api?username=khushiiagrawal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache_seconds=600"/><br>
+     <img width="390" height="192" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=khushiiagrawal&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_seconds=300">
+<br><hr>
+
+<h1 align="left">Top Contributed Repos⭐️</h1>
+
+ ![](https://github-contributor-stats.vercel.app/api?username=khushiiagrawal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
 </div>
+
+
+
