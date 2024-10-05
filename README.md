@@ -12,13 +12,14 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,javascript,mongodb,express,react,nodejs,firebase,bootstrap,html,css,github,docker" />
 </div>
  <hr>
-<div align="left">
-  <h1>Let's connect🌐</h1>
-  <a href="mailto:khushisaritaagrawal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>&nbsp;  
-  <a href="https://linkedin.com/in/khushi-agrawal-07bab22a0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  
+  <div align="left">
+      <h1>Let's connect🌐</h1>
+  <a href="https://www.linkedin.com/in/khushiagrawal028/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:khushisaritaagrawal@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="40" alt="gmail logo"  />
   </a>
 </div>
 <hr>  
