@@ -27,7 +27,7 @@
 <h1 align="left"> Git Stats📊 </h1>
 <div align="left">
   <img width="390" height="160" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=khushiiagrawal&count_private=true&theme=react&border_radius=10&cache_seconds=600"/><br>
-     <img width="390" height="192"  src="https://github-readme-stats-salesp07.vercel.app/api?username=khushiiagrawal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache_seconds=600"/><br>
+     <img width="390" height="192"  src="https://github-readme-stats-salesp07.vercel.app/api?username=khushiiagrawal&count_private=true&include_all_commits=true&show_icons=true&theme=react&border_radius=10&cache_seconds=600"/><br>
      <img width="390" height="192" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=khushiiagrawal&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_seconds=300">
 <br><hr>
 
