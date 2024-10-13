@@ -3,8 +3,6 @@
     <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="700" height="500">
 </h1>
 
-
-[![An image of @khushiiagrawal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushiiagrawal)](https://holopin.io/@khushiiagrawal)
 <hr>
 
 <div align="left">
@@ -21,9 +19,12 @@
   <a href="mailto:khushisaritaagrawal@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="40" alt="gmail logo"  />
   </a>
-</div>
+
+  </div>
 <hr>  
 
+[![An image of @khushiiagrawal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushiiagrawal)](https://holopin.io/@khushiiagrawal)
+<hr>
 <h1 align="left"> Git Stats📊 </h1>
 <div align="left">
   <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=khushiiagrawal&count_private=true&theme=algolia&count_private=true&include_all_commits=trueborder_radius=10"/><br><br>
