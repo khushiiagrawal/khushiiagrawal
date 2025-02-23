@@ -10,9 +10,30 @@
 
 
 <div align="left">
-  <h2>Techstack and Frameworks👩🏼‍💻 </h2>
-  <img src="https://skillicons.dev/icons?i=cpp,c,javascript,typescript,python,next,tailwind,redux,mongodb,express,react,nodejs,firebase,bootstrap,html,css,github,docker" />
+  <h2>Techstack and Frameworks 👩🏼‍💻</h2>
+  <div align="center">
+ <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; max-width: 900px; margin: auto;">
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="55" height="55" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" style="margin: 10px;" />
+    <!-- Animated section in between -->
+    <div style="width: 100%; text-align: center; margin: 20px 0; animation: bounce 1.5s infinite;">
+      <img src="https://skillicons.dev/icons?i=c,javascript,typescript,next,tailwind,mongodb,express,nodejs,firebase,github" style="margin: 10px;" />
+    </div>
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" style="margin: 20px;" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" style="margin: 20px;" />
+  </div>
+  </div>
 </div>
+
+<style>
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+</style>
 
   
   <div align="left">
