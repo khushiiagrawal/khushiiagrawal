@@ -6,7 +6,7 @@
 
 - 🔭 I’m an AIML Engineer and a Full Stack developer.
 - 🌱 Currently exploring MLOps and Cloud.
-- 💻 Working as an AI Engineer @Klugsys, a German based company. 
+- 💻 Working as an AI Engineer @Hayy.ai (Klugsus) , a German based company. 
 - 👩🏼‍💻 I have worked as an AIML Engineer @KratiTech, Web Developer @QuantArena.
 - 🔎 I’m looking to collaborate on Cloud-based projects and Open Source contributions.
 
